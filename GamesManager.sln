@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesManager.Migrations", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesManager.Infrastructure", "GamesManager.Infrastructure\GamesManager.Infrastructure.csproj", "{72BEB855-459A-4084-A590-65C0AE0E8726}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesManager.Core", "GamesManager.Data\GamesManager.Core.csproj", "{98AA3D66-F876-4D8A-BAC2-27CDBE48D444}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesManager.Core", "GamesManager.Core\GamesManager.Core.csproj", "{98AA3D66-F876-4D8A-BAC2-27CDBE48D444}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesManager.Contracts", "GamesManager.Contracts\GamesManager.Contracts.csproj", "{E5A0CC43-F457-465E-B439-807B13CC1A91}"
 EndProject

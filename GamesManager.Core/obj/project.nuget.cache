@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cK6FY9L3Fhu/MH1TyGkEuJHgTqeihVxGhegMVxNJIxhJpqAaBK8/EDKRaWcn+bVToHRee9uEohYp2GQ+O56oPg==",
+  "dgSpecHash": "nxDaUUTMC7CQ7SJIO6pOiXZN/m3TRYopQphnQvBtku9fTaGwCLdqIDVecQFL+jds3OC4r8EO0dG1Mft3lw1P0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\inmovery\\source\\repos\\GamesManager\\GamesManager.Data\\GamesManager.Core.csproj",
+  "projectFilePath": "C:\\Users\\inmovery\\source\\repos\\GamesManager\\GamesManager.Core\\GamesManager.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inmovery\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\inmovery\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
