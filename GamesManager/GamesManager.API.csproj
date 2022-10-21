@@ -23,7 +23,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\GamesManager.Data\GamesManager.Core.csproj" />
+		<ProjectReference Include="..\GamesManager.Core\GamesManager.Core.csproj" />
 		<ProjectReference Include="..\GamesManager.Infrastructure\GamesManager.Infrastructure.csproj" />
 	</ItemGroup>
 
