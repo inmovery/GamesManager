@@ -1,0 +1,12 @@
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Contracts\bin\Debug\net6.0\GamesManager.Contracts.deps.json
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Contracts\bin\Debug\net6.0\GamesManager.Contracts.dll
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Contracts\bin\Debug\net6.0\GamesManager.Contracts.pdb
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Contracts\obj\Debug\net6.0\GamesManager.Contracts.csproj.AssemblyReference.cache
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Contracts\obj\Debug\net6.0\GamesManager.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Contracts\obj\Debug\net6.0\GamesManager.Contracts.AssemblyInfoInputs.cache
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Contracts\obj\Debug\net6.0\GamesManager.Contracts.AssemblyInfo.cs
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Contracts\obj\Debug\net6.0\GamesManager.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Contracts\obj\Debug\net6.0\GamesManager.Contracts.dll
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Contracts\obj\Debug\net6.0\refint\GamesManager.Contracts.dll
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Contracts\obj\Debug\net6.0\GamesManager.Contracts.pdb
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Contracts\obj\Debug\net6.0\ref\GamesManager.Contracts.dll

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  gamesmanager.api:
+    image: ${DOCKER_REGISTRY-}gamesmanagerapi
+    build:
+      context: .
+      dockerfile: GamesManager/Dockerfile

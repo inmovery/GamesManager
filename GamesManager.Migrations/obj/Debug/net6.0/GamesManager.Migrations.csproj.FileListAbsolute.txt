@@ -1,0 +1,17 @@
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\bin\Debug\net6.0\GamesManager.Migrations.deps.json
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\bin\Debug\net6.0\GamesManager.Migrations.runtimeconfig.json
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\bin\Debug\net6.0\GamesManager.Migrations.dll
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\bin\Debug\net6.0\GamesManager.Migrations.pdb
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\bin\Debug\net6.0\GamesManager.Contracts.dll
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\bin\Debug\net6.0\GamesManager.Contracts.pdb
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\obj\Debug\net6.0\GamesManager.Migrations.csproj.AssemblyReference.cache
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\obj\Debug\net6.0\GamesManager.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\obj\Debug\net6.0\GamesManager.Migrations.AssemblyInfoInputs.cache
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\obj\Debug\net6.0\GamesManager.Migrations.AssemblyInfo.cs
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\obj\Debug\net6.0\GamesManager.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\obj\Debug\net6.0\GamesManager.Migrations.csproj.CopyComplete
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\obj\Debug\net6.0\GamesManager.Migrations.dll
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\obj\Debug\net6.0\refint\GamesManager.Migrations.dll
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\obj\Debug\net6.0\GamesManager.Migrations.pdb
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\obj\Debug\net6.0\GamesManager.Migrations.genruntimeconfig.cache
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Migrations\obj\Debug\net6.0\ref\GamesManager.Migrations.dll

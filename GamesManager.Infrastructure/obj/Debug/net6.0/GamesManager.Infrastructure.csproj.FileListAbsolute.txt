@@ -1,0 +1,17 @@
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\obj\Debug\net6.0\GamesManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\obj\Debug\net6.0\GamesManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\obj\Debug\net6.0\GamesManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\obj\Debug\net6.0\GamesManager.Infrastructure.AssemblyInfo.cs
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\obj\Debug\net6.0\GamesManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\bin\Debug\net6.0\GamesManager.Infrastructure.deps.json
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\bin\Debug\net6.0\GamesManager.Infrastructure.dll
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\bin\Debug\net6.0\GamesManager.Infrastructure.pdb
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\bin\Debug\net6.0\GamesManager.Contracts.dll
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\bin\Debug\net6.0\GamesManager.Migrations.dll
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\bin\Debug\net6.0\GamesManager.Contracts.pdb
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\bin\Debug\net6.0\GamesManager.Migrations.pdb
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\obj\Debug\net6.0\GamesManager.Infrastructure.csproj.CopyComplete
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\obj\Debug\net6.0\GamesManager.Infrastructure.dll
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\obj\Debug\net6.0\refint\GamesManager.Infrastructure.dll
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\obj\Debug\net6.0\GamesManager.Infrastructure.pdb
+C:\Users\inmovery\source\repos\GamesManager\GamesManager.Infrastructure\obj\Debug\net6.0\ref\GamesManager.Infrastructure.dll

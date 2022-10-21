@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GamesManager.API</name>
+    </assembly>
+    <members>
+        <member name="M:GamesManager.API.Controllers.GamesController.Get">
+            <summary>
+            Get all games
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GamesManager.API.Controllers.GamesController.Post(GamesManager.Contracts.Dto.CreateOrUpdateGameDto)">
+            <summary>
+            Insert game
+            </summary>
+            <param name="gameModel">Game request model</param>
+            <returns></returns>
+        </member>
+        <member name="M:GamesManager.API.Controllers.GamesController.Delete(System.Guid)">
+            <summary>
+            Delete game
+            </summary>
+            <param name="gameId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GamesManager.API.Controllers.GamesController.Update(System.Guid,GamesManager.Contracts.Dto.CreateOrUpdateGameDto)">
+            <summary>
+            Update game
+            </summary>
+            <param name="id">Specified game id</param>
+            <param name="gameModel">Updated game request model</param>
+            <returns></returns>
+        </member>
+        <member name="M:GamesManager.API.Controllers.GamesController.GetById(System.Guid)">
+            <summary>
+            Get game by id
+            </summary>
+            <param name="gameId">Specified game id</param>
+            <returns></returns>
+        </member>
+        <member name="M:GamesManager.API.Controllers.GamesController.GetByGenre(GamesManager.Contracts.Data.Entities.GameGenre)">
+            <summary>
+            Get games by genre
+            </summary>
+            <param name="gameGenre">Specified game genre</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
